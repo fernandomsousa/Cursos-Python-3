@@ -12,4 +12,7 @@
 😃 <a href = "Python3 - Mundo 1"> <b> Python 3 - Mundo 1 </a> </b> </br>
 
 #
-<b> Legenda: 😃 - Iniciante, ainda tranquilo. </b>
+
+<div align="center">
+<b>Legenda: 😃 - Iniciante, ainda tranquilo| 🧐 - Intermediário, começando a dificultar| 🥵 - Dificil, agora complicou|</b>
+</div>
