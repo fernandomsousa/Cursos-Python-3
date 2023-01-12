@@ -4,7 +4,6 @@
 
 <div align="center">
 <b> REPOSITÓRIO CRIADO PARA COMPARTILHAR MEUS AVANÇOS COM A LINGUAGEM PYTHON 🐍 </b>
-
 </div>
 
 #
