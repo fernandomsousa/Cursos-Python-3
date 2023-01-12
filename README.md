@@ -14,5 +14,5 @@
 #
 
 <div align="center">
-<b>Legenda: 😃 - Iniciante, ainda tranquilo| 🧐 - Intermediário, começando a dificultar| 🥵 - Dificil, agora complicou</b>
+<b>Legenda: 😃 - Iniciante, tranquilo| 🧐 - Intermediário, começando a dificultar| 🥵 - Dificil, agora complicou</b>
 </div>
