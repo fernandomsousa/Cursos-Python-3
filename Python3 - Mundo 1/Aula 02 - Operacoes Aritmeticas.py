@@ -13,4 +13,3 @@ print(f'Exemplo de resto de divisão em Python: {n1 % n2}')
 
 # Ordem de precedência: 1° (); 2° **; 3° *, /, //, %; 4° +,-.
 # No 3° e 4° a ordem entre eles vale para o operador que aparecer primeiro.
-

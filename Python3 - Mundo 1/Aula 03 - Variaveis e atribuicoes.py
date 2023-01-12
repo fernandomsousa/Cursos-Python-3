@@ -6,4 +6,4 @@ peso = input('Qual seu peso? ')
 
 print(nome, idade, peso)
 
-# Aula concluída
+# Aula concluída!
