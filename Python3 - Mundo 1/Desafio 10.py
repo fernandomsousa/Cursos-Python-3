@@ -2,9 +2,10 @@
 
 print('====== DESAFIO 10 ======')
 
-money = float (input('Digite a quantia presente em reais na sua carteira: '))
-dolar = money / 3.27
+money = float (input('Digite a quantia presente em reais na sua carteira: R$'))
+dolar = money / 5.16
+euro = money / 5.55
 
-print(f'Com R$ {money} você pode comprar US$ {dolar:.2f} !')
+print(f'Com R${money} você pode comprar US${dolar:.2f} e EUR€{euro:.2f}')
 
 # Desafio resolvido com ajuda...

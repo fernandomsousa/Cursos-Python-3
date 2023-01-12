@@ -4,6 +4,6 @@ print('====== DESAFIO 06 ======')
 
 n = int (input('Digite um número: '))
 
-print(f'O dobro do número digitado é: {n*2}, seu triplo é: {n*3} e sua raiz quadrada é: {n**2}.')
+print(f'O dobro do número digitado é: {n*2} \nSeu triplo é: {n*3} \nSua raiz quadrada é: {pow(n,0.5):.2f}')
 
 # Desafio concluído sem ajuda!
