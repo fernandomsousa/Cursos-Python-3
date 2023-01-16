@@ -1,5 +1,7 @@
 # Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seu seno, cosseno e tangente.
 
+print('====== DESAFIO 18 ======')
+
 from math import radians, sin, cos, tan
 
 angulo = float (input('Digite um ângulo qualquer: '))
