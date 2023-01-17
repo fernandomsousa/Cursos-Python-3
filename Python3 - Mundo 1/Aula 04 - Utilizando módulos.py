@@ -9,6 +9,8 @@
 # factorial = cálculo fatorial
 # caso queira usar apenas raiz quadrada, por exemplo, posso usar apenas from math import sqrt.
 
+print('====== TESTES DAS TEORIAS ESTUDADAS ======')
+
 import math
 
 num = int (input('Digite um número:'))

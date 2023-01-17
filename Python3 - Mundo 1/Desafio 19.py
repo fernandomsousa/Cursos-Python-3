@@ -11,4 +11,6 @@ aluno4 = input('Digite o nome do quarto aluno: ')
 
 print(f'O aluno escolhido é: {choice([aluno1, aluno2, aluno3, aluno4])}')
 
+# Quando trabalho com choice, posso criar uma lista durante o print ou separadamente.
+# Já com shuffle, obrigatoriamente a lista deve ser separada.
 # Desafio COncluído sem ajuda!

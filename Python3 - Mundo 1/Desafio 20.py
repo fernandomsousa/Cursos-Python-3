@@ -15,4 +15,5 @@ shuffle(lista)
 
 print(f'A ordem da lista embaralhada é: {lista}')
 
+# No shuffle, há a necessidade de criar uma lsita separadamente, para que a função faça sua separação randomica.
 # Desafio concluído com ajuda...

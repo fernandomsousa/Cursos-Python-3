@@ -1,5 +1,7 @@
 # Identificando variáveis e efetuando atribuições!
 
+print('====== TESTES DAS TEORIAS ESTUDADAS ======')
+
 nome = input('Qual seu nome? ')
 idade = input('Qual sua idade? ')
 peso = input('Qual seu peso? ')
