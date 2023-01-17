@@ -14,4 +14,5 @@ print(f'O valor da hipotenusa trabalhando com os catetos digitados é: {hipotenu
 print(f'O valor da hipotenusa utilizando a biblioteca hypot é: {hypot(cateto_oposto, cateto_adjascente):.3f}!')
 
 # Acima, vemos mais de uma forma de trabalhar com bibliotecas dentro de amth para obter o resultado final!
+
 # Desafio concluído sem ajuda!

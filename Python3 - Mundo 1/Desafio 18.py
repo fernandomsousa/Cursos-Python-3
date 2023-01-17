@@ -13,6 +13,7 @@ tangente = tan(angulo2)
 
 print(f'Sobre o ângulo {angulo}, temos:\nseu seno é: {seno:.2f}\nSeu cosseno é: {cosseno:.2f}\nE sua tangente é: {tangente:.2f}')
 
-# Desafio concluído sem ajuda!
 # Durante a correção, descobri que posso utilizar a conversão de radians dentro do sen e tudo mais
 # seno = math.sin(math.radians(angulo2))
+
+# Desafio concluído sem ajuda!
