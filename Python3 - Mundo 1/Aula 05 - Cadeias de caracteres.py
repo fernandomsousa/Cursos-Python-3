@@ -45,6 +45,6 @@ print(frase.upper().find('Video')) # Retorna -1 pois faz a conversão da palavra
 
 dividido = frase.split() # Aqui efetuo a divisão das palavras contidas em frase.
 
-print(dividido[2][3]) # Desta forma, mostro apenas a letra 3 da palavra contida na segunda divisao da frase (video).
+print(dividido[2][:]) # Desta forma, mostro apenas a letra 3 da palavra contida na segunda divisao da frase (video).
 
 # Aula concluída!
