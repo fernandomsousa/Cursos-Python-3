@@ -3,7 +3,7 @@
 
 print('====== DESAFIO 22 ======')
 
-nome = str (input('Digite seu nome completo: '))
+nome = (input('Digite seu nome completo: '))
 
 print(f'Seu nome com todas as letras maiúsculas é: {nome.strip().upper()}.\nSeu nome com todas as letras minúsculas é: {nome.strip().lower()}.')
 

@@ -3,13 +3,11 @@
 
 print('====== DESAFIO 23 ======')
 
-numero = str (input('Digite um número de 0 a 9999: '))
+numero = int (input('Digite um número de 0 a 9999: '))
 
-numero = numero.split()
-
-print(f'Unidade: {numero[0][3]}.')
-print(f'Dezena: {numero[0][2]}.')
-print(f'Centena: {numero[0][1]}.')
-print(f'Milhar: {numero[0][0]}.')
+print(f'Unidade: {numero // 1 % 10}.')
+print(f'Dezena: {numero // 10 % 10}.')
+print(f'Centena: {numero // 100 % 10}.')
+print(f'Milhar: {numero // 1000 % 10}.')
 
 # Desafio concluído sem ajuda!
