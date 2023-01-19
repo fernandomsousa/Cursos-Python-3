@@ -11,4 +11,6 @@ if velocidade > 80:
 else:
     print(f'Você passou no radar em {velocidade:.0f}Km/h. Portanto, não foi multado!')
 
+# Por identação, não precisaria do else, usando a chamada "condição simples".
+
 # Desafio concluído sem ajuda!

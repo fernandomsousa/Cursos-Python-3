@@ -24,4 +24,5 @@ if n2 < n1 and n2 < n3:
 if n3 < n1 and n3 < n2: 
     print(f'O menor número é: {n3}')
 
+# Durante a correção vimos uma forma de minimazação. tornando o primeiro if um valor atribuidp diretamente e removendo o if do mesmo.
 # Desafio concluído sem ajuda!
