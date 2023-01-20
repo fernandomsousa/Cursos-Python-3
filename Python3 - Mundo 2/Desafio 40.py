@@ -1,7 +1,7 @@
 # Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final de acordo com a média atingida:
 # Média abaixo de 5.0: Reprovado!; Entre 5.0 e 6.9: Recuperação!; 7.0 ou maior: Aprovado!.
 
-print('====== DESAFIO 40 - AQUELE CLÁSSICO DA MÉDIA! ======\n')
+print('\n====== DESAFIO 40 - AQUELE CLÁSSICO DA MÉDIA! ======\n')
 
 nome = input('Digite seu nome: ').capitalize()
 

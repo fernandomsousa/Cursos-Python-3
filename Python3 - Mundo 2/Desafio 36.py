@@ -2,7 +2,7 @@
 # O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele irá pagar.
 # Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então o empréstimo será negado.
 
-print('====== DESAFIO 36 - APROVANDO EMPRÉSTIMO! ======')
+print('\n====== DESAFIO 36 - APROVANDO EMPRÉSTIMO! ======\n')
 
 valor_casa = float (input('Digite o valor da casa: R$'))
 salario = float (input('Digite seu salário atual: R$'))

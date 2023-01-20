@@ -1,7 +1,7 @@
 # Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade:
 # Se ainda irá se alistar; Se já é a hora de se alistar; Se ja passou da hora.
 
-print('====== DESAFIO 39 - ALISTAMENTO MILITAR! ======\n')
+print('\n====== DESAFIO 39 - ALISTAMENTO MILITAR! ======\n')
 
 from datetime import date
 
